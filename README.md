@@ -10,8 +10,13 @@ An App that provides a way for people who want to learn baking and to be profess
 4. **Book Class for Baking Courses with specific chef.**  
 5. **Cancel booking.**
 6. **View the Profile (Name , Image , Booked courses)**
+![Thmbnail](https://user-images.githubusercontent.com/62729978/226943934-97917049-fcef-4780-9108-bba2e70f6c44.jpg)
 
 # Demo:
+
+
+https://user-images.githubusercontent.com/62729978/226944097-c63ac317-8325-442b-8211-c7abf615a702.mov
+
 
 # Team Members:
 #### Dana Albabtain [Linkedin](https://www.linkedin.com/in/dana-albabtain-624875191)
